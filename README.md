@@ -1,4 +1,4 @@
-                                                                                            # Welcome to my HTML Exercises Repository! 🌟
+                                                      # Welcome to my HTML Exercises Repository! 🌟
 
 This repository contains my frontend development projects, focusing specifically on HTML exercises from Codecademy. As I learn and practice, I'll be uploading my completed projects to showcase my progress.
 
