@@ -1,12 +1,12 @@
-Frontend Learning Journey
-Welcome to my Frontend Development Exercises Repository! 🌟
+HTML Exercises Repository
+Welcome to my HTML Exercises Repository! 🌟
 
-I’ve recently embarked on my journey to become a frontend developer, using Codecademy as my main learning resource. This repository is where I’m uploading my progress, exercises, and projects as I build up my skills in HTML, CSS, and JavaScript.
+This repository contains my frontend development projects, focusing specifically on HTML exercises from Codecademy. As I learn and practice, I'll be uploading my completed projects to showcase my progress.
 
-📚 Projects and Exercises
-Fashion Blog (by Codecademy): A simple fashion blog project designed to help me learn the basics of HTML structure and CSS styling.
+📚 Projects
+Fashion Blog (by Codecademy): A simple fashion blog project created to understand HTML structure and basic styling.
 
-Wine Festival Schedule: A project that focuses on building a schedule for a wine festival using HTML and CSS to create an organized and visually appealing event page.
+Wine Festival Schedule: An HTML project designed to display the schedule for a wine festival, showcasing my skills in organizing content with HTML.
 
-🎯 Purpose of this repository
-This repository tracks my progress as I complete various frontend development exercises. It serves as a showcase of the projects I’m working on while learning HTML, CSS, and JavaScript, and it will continue to grow as I develop my skills further.
+🎯 Purpose of this Repository
+The aim of this repository is to track my learning journey through HTML exercises. Each project represents a step in my development as a frontend developer, and I will continue to add new exercises as I advance in my studies
