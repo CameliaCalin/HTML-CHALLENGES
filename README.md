@@ -4,8 +4,9 @@ This repository contains my frontend development projects, focusing specifically
 
 ## 📚 Projects
 
-1.**Fashion Blog (by Codecademy):** A simple fashion blog project created to understand HTML structure and basic styling.
-2.**Wine Festival Schedule:** An HTML project designed to display the schedule for a wine festival, showcasing my skills in organizing content with HTML.
+-1.**Fashion Blog (by Codecademy):** A simple fashion blog project created to understand HTML structure and basic styling.
+
+-2.**Wine Festival Schedule:** An HTML project designed to display the schedule for a wine festival, showcasing my skills in organizing content with HTML.
 
 ## 🎯 Purpose of this Repository
 
