@@ -8,6 +8,10 @@ This repository contains my frontend development projects, focusing specifically
 
 2.**Wine Festival Schedule:** An HTML project designed to display the schedule for a wine festival, showcasing my skills in organizing content with HTML.
 
+3.**New Work Blog:** A new blog project where I share my journey and insights into frontend development by Codecademy.
+
+4.**Interactive Story Form:** An interactive form-based project designed to collect user information for creating a personalized story. 
+
 ## 🎯 Purpose of this Repository
 
 The aim of this repository is to track my learning journey through HTML exercises. Each project represents a step in my development as a frontend developer, and I will continue to add new exercises as I advance in my studies
